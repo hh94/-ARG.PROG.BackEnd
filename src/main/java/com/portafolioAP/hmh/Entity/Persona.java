@@ -5,10 +5,9 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
+import javax.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
-import javax.persistence.Id;
-
 
 @Getter @Setter
 @Entity
