@@ -1,7 +1,8 @@
 package com.portafolioAP.hmh.Service;
 
+
+import Interface.IPersonaService;
 import com.portafolioAP.hmh.Entity.Persona;
-import com.portafolioAP.hmh.Interface.IPersonaService;
 import com.portafolioAP.hmh.Repository.IPersonaRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

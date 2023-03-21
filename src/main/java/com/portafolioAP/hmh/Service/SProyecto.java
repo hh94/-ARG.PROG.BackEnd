@@ -16,6 +16,7 @@ public class SProyecto {
     
     @Autowired
     RProyecto rProyecto;
+    
     public List<Proyecto> list(){
         return rProyecto.findAll();
     }
