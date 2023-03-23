@@ -37,6 +37,7 @@ com\portafolioAP\hmh\HmhApplication.class
 com\portafolioAP\hmh\Security\Entity\Usuario.class
 com\portafolioAP\hmh\Security\MainSecurity.class
 com\portafolioAP\hmh\Security\Entity\UsuarioPrincipal.class
+.netbeans_automatic_build
 com\portafolioAP\hmh\Controller\CExperiencia.class
 com\portafolioAP\hmh\Repository\RAcerca.class
 com\portafolioAP\hmh\Service\SEstudio.class
