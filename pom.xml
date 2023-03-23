@@ -80,9 +80,8 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>3.0.3</version>
+    <version>3.0.2</version>
 </dependency>
-
 
 <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
 <dependency>
