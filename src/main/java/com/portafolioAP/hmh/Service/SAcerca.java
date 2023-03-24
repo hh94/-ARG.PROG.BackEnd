@@ -23,7 +23,7 @@ public class SAcerca {
         return rAcerca.findById(id);
     }
     
-    public Optional<Estudio> getNombreA(String nombreA){
+    public Optional<Acerca> getNombreA(String nombreA){
         return rAcerca.findByNombreA(nombreA);
     }
     
