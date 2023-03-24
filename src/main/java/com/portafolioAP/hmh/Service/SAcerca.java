@@ -1,7 +1,6 @@
 package com.portafolioAP.hmh.Service;
 
 import com.portafolioAP.hmh.Entity.Acerca;
-import com.portafolioAP.hmh.Entity.Estudio;
 import com.portafolioAP.hmh.Repository.RAcerca;
 import java.util.List;
 import java.util.Optional;
