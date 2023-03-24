@@ -17,9 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
   
   
 @RestController
-//@CrossOrigin(origins = "https://fe-argprog.firebaseapp.com")
+@CrossOrigin(origins = "https://fe-ap23.web.app")
 //@CrossOrigin(origins = "http://localhost:4200")
-@CrossOrigin(origins = "https://fe-argprog.web.app")
 public class PersonaController {
     @Autowired IPersonaService ipersonaService;
     
@@ -57,11 +56,11 @@ public class PersonaController {
         return persona;
         
     }
-    
+    /*
         @GetMapping("/personas/traer/perfil")
     public Persona findPersona(){
         return ipersonaService.findPersona((long)1);
-    }
+    }*/
     
 }
    
